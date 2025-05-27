@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Zago Rodrigues</h1>
 <h3 align="center">I am a Brazilian software developer specialized on Python language and Odoo, and always seeking for knowledge and learning new things!</h3>
 
-- 🔭 I’m currently working on **Kmee**
+- 🔭 I’m currently working on **Viasoft**
 
 - 👯 I’m looking to collaborate on **any open source initiative**
 
